@@ -7,6 +7,4 @@ Projects for UCLA Stats M231/CS 276A
 
 2. Face detection by AdaBoost and RealBoost: How many features do you need to detect a face in a crowd? 
 
-3. Object detection by Fast-RCNN: How to detect the class of an object and its location? 
-
-4. Face social attributes and sentiment analysis by SVM: How do we measure the social dimensions of faces in political elections and social network?
+3. Face social attributes and sentiment analysis by SVM: How do we measure the social dimensions of faces in political elections and social network?
