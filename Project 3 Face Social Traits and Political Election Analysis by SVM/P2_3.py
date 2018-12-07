@@ -86,6 +86,7 @@ ax.plot(angles, values, linewidth=1, linestyle='solid', label="Governor")
 ax.fill(angles, values, 'r', alpha=0.1)
  
 plt.legend(loc='upper right', bbox_to_anchor=(0.1, 0.1))
+plt.title('Correlation Coefficient')
 plt.savefig('Radar Plot for Corr')
 
 #radar plot for w
@@ -133,4 +134,5 @@ ax.plot(angles, values, linewidth=1, linestyle='solid', label="Governor")
 ax.fill(angles, values, 'r', alpha=0.1)
  
 plt.legend(loc='upper right', bbox_to_anchor=(0.1, 0.1))
+plt.title('Prediction Coefficient')
 plt.savefig('Radar Plot for Coefficient')
